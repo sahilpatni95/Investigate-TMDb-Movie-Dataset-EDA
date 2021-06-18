@@ -1,5 +1,5 @@
-# Investigate-TMDb-dataset-
-Project of Data Analyst Nanodegree Program on Udacity 
+# Investigate-TMDb-dataset-EDA
+> Project of Data Analyst Nanodegree Program on Udacity 
 
 ## Overview
 This dataset contains information about 10,000 movies collected from The Movie Database (TMDb), 
